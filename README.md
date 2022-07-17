@@ -39,9 +39,9 @@
 <br />
 
 
-[facebook]: https://www.facebook.com/kavindu.pethum/
-[instagram]: https://www.instagram.com/omi_sheeran/
-[linkedin]: https://www.linkedin.com/in/pathumhewage/
+[facebook]: https://www.facebook.com/yehan.buddhika.336
+[instagram]: https://www.instagram.com/yehan__gunarathne/
+[linkedin]: https://www.linkedin.com/in/yehan-gunarathne-7b2434222/
 [webdevplaylist]:#
 [jsplaylist]:#
 [cssplaylist]:#
