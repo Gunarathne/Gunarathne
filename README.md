@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 😄 I’m Pathum, a Software Engineering undergraduate at SLIIT.
+- 😄 I’m Yehan, a Data Science undergraduate at SLIIT.
 - 🌱 I enjoy learning new technologies.
 - 🚀 I'm looking for an internship
 
